@@ -1,0 +1,20 @@
+{
+	"name": "linkin_park---copy",
+	"version": "1.0.0",
+	"description": "",
+	"type": "module",
+	"scripts": {
+		"start": "node server",
+		"build": "parcel build src/index.html"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"parcel": "^2.3.2"
+	},
+	"dependencies": {
+		"dotenv": "^16.0.0",
+		"express": "^4.17.3"
+	}
+}
